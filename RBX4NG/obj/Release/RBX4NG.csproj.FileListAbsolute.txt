@@ -1,0 +1,10 @@
+C:\Users\amitv\source\repos\RBX4NG\RBX4NG\bin\Release\RBX4NG.exe.config
+C:\Users\amitv\source\repos\RBX4NG\RBX4NG\bin\Release\RBX4NG.exe
+C:\Users\amitv\source\repos\RBX4NG\RBX4NG\bin\Release\RBX4NG.pdb
+C:\Users\amitv\source\repos\RBX4NG\RBX4NG\obj\Release\RBX4NG.csprojResolveAssemblyReference.cache
+C:\Users\amitv\source\repos\RBX4NG\RBX4NG\obj\Release\RBX4NG.MainForm.resources
+C:\Users\amitv\source\repos\RBX4NG\RBX4NG\obj\Release\RBX4NG.Properties.Resources.resources
+C:\Users\amitv\source\repos\RBX4NG\RBX4NG\obj\Release\RBX4NG.csproj.GenerateResource.Cache
+C:\Users\amitv\source\repos\RBX4NG\RBX4NG\obj\Release\RBX4NG.csproj.CoreCompileInputs.cache
+C:\Users\amitv\source\repos\RBX4NG\RBX4NG\obj\Release\RBX4NG.exe
+C:\Users\amitv\source\repos\RBX4NG\RBX4NG\obj\Release\RBX4NG.pdb
